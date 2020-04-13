@@ -1,2 +1,0 @@
-# goride
-Voucher Gofood + Goride
